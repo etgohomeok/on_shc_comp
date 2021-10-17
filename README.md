@@ -18,9 +18,9 @@ Also, this is the first time I've ever made an app (actually it's also the first
 
 This project uses three external flutter libraries:
 
-qr_flutter: https://pub.dev/packages/qr_flutter
-flutter_barcode_scanner: https://pub.dev/packages/flutter_barcode_scanner
-path_provider: https://pub.dev/packages/path_provider
+- qr_flutter: https://pub.dev/packages/qr_flutter
+- flutter_barcode_scanner: https://pub.dev/packages/flutter_barcode_scanner
+- path_provider: https://pub.dev/packages/path_provider
 
 ## Known Issues
 
