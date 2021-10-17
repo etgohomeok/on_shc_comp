@@ -2,6 +2,8 @@
 
 A companion app for storing and displaying Ontario-issued SMART Health Card QR codes.
 
+![App screenshot](doc/app_screenshot.jpg?raw=true "Screenshot")
+
 ## Getting Started
 
 This app allows you to scan-in your QR code from your Ontario-issued enhanced vaccine passport, save the QR code data to your phone, and quickly regenerate and display it.
