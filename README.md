@@ -2,7 +2,7 @@
 
 A companion app for storing and displaying Ontario-issued SMART Health Card QR codes.
 
-![App screenshot](doc/app_screenshot.jpg?raw=true "Screenshot")
+<img src="doc/app_screenshot.jpg?raw=true" width="360" height="780">
 
 ## Getting Started
 
